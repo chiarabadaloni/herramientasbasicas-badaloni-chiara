@@ -5,7 +5,10 @@
 **Cohorte:** Noviembre 2026  
 
 ## Objetivo del Proyecto
-El presente Trabajo Final Integrador tiene como objetivo analizar el impacto de los hábitos nocturnos de uso de pantallas sobre la calidad y latencia del sueño en una muestra de 8.500 usuarios, aplicando un flujo completo de limpieza, análisis exploratorio en Python y visualización interactiva en Power BI.
+El presente Trabajo Final Integrador tiene como objetivo analizar el impacto de los hábitos nocturnos de uso de pantallas sobre la calidad y latencia del sueño en una muestra de **8.500 usuarios**, aplicando un flujo completo de limpieza, análisis exploratorio en Python y visualización interactiva en Power BI.
+
+## Vista Previa del Dashboard
+![Dashboard de Insomnio Digital](./dashboard/dashboard_sueno.png)
 
 ## Preguntas de Investigación
 1. **Consumo por plataforma:** ¿Qué categorías de aplicaciones concentran la mayor cantidad de usuarios antes de dormir?
@@ -18,6 +21,7 @@ El presente Trabajo Final Integrador tiene como objetivo analizar el impacto de 
 * **Notebook de análisis en Python:** [`notebook/Sueño.ipynb`](./notebook/Sue%C3%B1o.ipynb)
 * **Dashboard editable en Power BI:** [`dashboard/dashboard_sueno.pbix.pbix`](./dashboard/dashboard_sueno.pbix.pbix)
 * **Vista previa del Dashboard (PDF):** [`dashboard/dashboard_sueno.pbix.pdf`](./dashboard/dashboard_sueno.pbix.pdf)
+* **Vista previa del Dashboard (PNG):** [`dashboard/dashboard_sueno.png`](./dashboard/dashboard_sueno.png)
 
 ## Metodología y Pasos Realizados
 1. **Limpieza y preparación (Google Colab):** Inspección de 8.500 registros mediante `pandas`, estandarización de variables categóricas al español, verificación de valores nulos y detección de valores atípicos.
